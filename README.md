@@ -13,7 +13,6 @@ Users can choose from different types of coffee, insert coins to pay, and receiv
 - Machine shutdown option (`off` command)
 
 ## How It Works
-
 1. The machine asks, **"What would you like? (latte/espresso/cappuccino)"**.
 2. If enough ingredients are available:
    - It asks how many coins the user is inserting (5, 10, 20 coins).
